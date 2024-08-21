@@ -1,4 +1,4 @@
-# polymorphic-this
+# calculator
 
 To install dependencies:
 
